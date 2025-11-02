@@ -1,0 +1,30 @@
+{
+  "cryptos": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "logo": "/crypto-logos/bitcoin.png"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "logo": "/crypto-logos/ethereum.png"
+    },
+    {
+      "id": "binancecoin",
+      "name": "BNB",
+      "logo": "/crypto-logos/binancecoin.png"
+    },
+    {
+      "id": "ripple",
+      "name": "XRP",
+      "logo": "/crypto-logos/ripple.png"
+    },
+    {
+      "id": "cardano",
+      "name": "Cardano",
+      "logo": "/crypto-logos/cardano.png"
+    }
+  ],
+  "lastUpdated": "2025-11-02T09:22:59.959Z"
+}
